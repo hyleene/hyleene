@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Hylene 👋
+
+I am a computer science graduate of De La Salle University, currently working as a C++ engineer at Samsung Research and Development Institute Philippines. 
+
+<b>Past Projects</b>
+<b>Research</b>
+<b>Technologies</b>
 
 <!--
 **hyleene/hyleene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
