@@ -3,6 +3,7 @@
 I am a computer science graduate of De La Salle University, currently working as a C++ engineer at Samsung Research and Development Institute Philippines. 
 
 <b>Past Projects</b>
+<ul><b>Artemis</b>: https://github.com/hyleene/artemis-art-app </ul>
 <b>Research</b>
 <b>Technologies</b>
 
