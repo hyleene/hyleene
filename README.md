@@ -3,6 +3,12 @@
 I am a computer science graduate of De La Salle University, currently working as a C++ engineer at Samsung Research and Development Institute Philippines. Here's a bit more about me:
 
 
+**Research**
+- **LigMANet**: https://github.com/hyleene/LigMANet-PyTorch | https://ieeexplore.ieee.org/document/10458439
+  - A lightweight crowd counting model (implemented using PyTorch) created by applying model compression techniques on the state-of-the-art MAN model for dense crowd counting applications
+  - The final model was submitted as a conference paper at the 10th International Conference on Soft Computing & Machine Intelligence (ISCMI), held in Mexico City
+
+
 **Past Projects**
 - **Artemis**: https://github.com/hyleene/artemis-art-app
   - A mobile application that serves as an art-sharing platform where users can share and provide feedback on each others' work
@@ -14,12 +20,6 @@ I am a computer science graduate of De La Salle University, currently working as
   - A web application used for managing the inventory, transactions, and deliveries of the Powerzone fuel company
   - Developed with MongoDB and Node.js
   - Integrated CI/CD practices (testing, assertions, mocking, and stubbing) during development
-
-
-**Research**
-- **LigMANet**: https://github.com/hyleene/LigMANet-PyTorch | https://ieeexplore.ieee.org/document/10458439
-  - A lightweight crowd counting model (implemented using PyTorch) created by applying model compression techniques on the state-of-the-art MAN model for dense crowd counting applications
-  - The final model was submitted as a conference paper at the 10th International Conference on Soft Computing & Machine Intelligence (ISCMI), held in Mexico City
 
 
 **Technologies**
