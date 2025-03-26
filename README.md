@@ -13,7 +13,7 @@ I am a computer science graduate of De La Salle University, currently working as
 - **Powerzone Inventory**: https://github.com/STSWENG-T1-AY2122-AWS-CodeBuild/powerzone-inventory
   - A web application used for managing the inventory, transactions, and deliveries of the Powerzone fuel company
   - Developed with MongoDB and Node.js
-  - Integrated CI/CD practices (testing, assertions, mocking, and stubbing) during the development phase
+  - Integrated CI/CD practices (testing, assertions, mocking, and stubbing) during development
 
 
 **Research**
@@ -24,7 +24,7 @@ I am a computer science graduate of De La Salle University, currently working as
 
 **Technologies**
 - **Programming Languages**: Java, Python, C, C++
-- **Web Development**: HTML, CSS< Tailwind, JavaScript, Spring Boot, React, Vue, Node.js
+- **Web Development**: HTML, CSS, Tailwind, JavaScript, Spring Boot, React, Vue, Node.js
 - **Database**: MySQL, PostgreSQL, MongoDB, Firebase
 <!--
 **hyleene/hyleene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
